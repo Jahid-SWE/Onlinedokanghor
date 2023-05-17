@@ -46,3 +46,4 @@ Route::get('/chart',[DashboardController::class,'chart'])->name('chart');
 Route::get('/static-layout',[DashboardController::class,'static_layout'])->name('static_layout');
 Route::get('/light-sidenav',[DashboardController::class,'light_sidenav'])->name('light_sidenav');
 Route::get('/table',[DashboardController::class,'table'])->name('table');
+Route::get('/authentication',[DashboardController::class,'authentication'])->name('authentication');

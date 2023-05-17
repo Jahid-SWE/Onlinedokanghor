@@ -26,5 +26,9 @@ class DashboardController extends Controller
         return view('backend.table.table');
 
     }
+    public function authentication(){
+        return view('backend.pages.authentication');
+
+    }
 
 }
