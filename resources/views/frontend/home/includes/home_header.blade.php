@@ -49,9 +49,11 @@
                                                 <li><a href="{{route('fabric_printing')}}">Fabric Printing</a></li>
                                                 <li><a href="{{route('fabric_dyeing')}}">Fabric Dyeing</a></li>
                                                 <li><a href="{{route('engineering')}}">Engineering</a></li>
+                                                <li><a href="{{route('design_fabric')}}">We Design Fabric</a></li>
                                                 <li><a href="{{route('manufacture')}}">Manufacture</a></li>
                                                 <li><a href="{{route('stich_fabric')}}">Stich Fabric</a></li>
                                                 <li><a href="{{route('design_fabric')}}">We Design Fabric</a></li>
+                                              
                                             </ul>
                                         </li>
                                         <li class="mega-menu-item">
